@@ -15,7 +15,7 @@ There are 3 React components
 
 * Features of App *
 
-    Lets you play tic-tac-toe,
-    Indicates when a player has won the game,
-    Stores a game’s history as a game progresses,
-    Allows players to review a game’s history and see previous versions of a game’s board.
+    1.Lets you play tic-tac-toe
+    2.Indicates when a player has won the game
+    3.Stores a game’s history as a game progresses
+    4.Allows players to review a game’s history and see previous versions of a game’s board
